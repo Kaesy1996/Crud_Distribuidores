@@ -1,9 +1,0 @@
-Examen 
-
-Conclusión
-En lo personal, no se obtuvo el resultado que se tenia pensado para poder hacer el ejercicio,
-hubo muchas complicaciones con los inner joins ya que me daba muchos errores y trate de 
-poder corregirlos y no se pudo hacer nada, pero de los errores uno aprende, además pude lograr
-crear un CRUD y una base de datos mucho mas sencilla y funciona correctamente, es mi 
-primera vez haciendo este tipo de trabajos, fue algo nuevo para mi y pues fue una experiencia 
-buena, porque aprendi hacerlos, pero uno quiere más y poder aprender más a fondo. 
